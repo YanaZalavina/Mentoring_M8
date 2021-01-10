@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Parallel test suite" >
+
+    <test name="Regression 2">
+        <parameter name="myBrowser" value="firefox"/>
+        <classes>
+            <class name="tests.GoogleCloudPlatformPricingCalculatorTest" />
+        </classes>
+    </test>
+</suite>

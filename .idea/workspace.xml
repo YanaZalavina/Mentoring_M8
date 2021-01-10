@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f301627-92a6-41f1-9801-52edd697d1a1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lmw2UB3qsbLs5oEZflc4HPfmsc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Task_3" />
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/Iana_Ryzhova/git_repository/Task_3/src/test/java/resources/testngSuits.xml">
+    <configuration name="AdditionalGoogleTests.checkActualData" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Task_3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.AdditionalGoogleTests" />
+      <option name="METHOD_NAME" value="checkActualData" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdditionalGoogleTests.checkDeleteEstimate" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Task_3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.AdditionalGoogleTests" />
+      <option name="METHOD_NAME" value="checkDeleteEstimate" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdditionalGoogleTests.checkFormComputerEngine" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Task_3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.AdditionalGoogleTests" />
+      <option name="METHOD_NAME" value="checkFormComputerEngine" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Iana_Ryzhova/git_repository/Task_3/src/test/java/resources/testngSuits.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Task_3" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/resources/testngSuits.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoogleCloudPlatformPricingCalculatorTest.checkEnteredDataForPricingCalculator" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Task_3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.GoogleCloudPlatformPricingCalculatorTest" />
+      <option name="METHOD_NAME" value="checkEnteredDataForPricingCalculator" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/Iana_Ryzhova/git_repository/Task_3/src/test/java/resources/testngSuits.xml" />
+        <item itemvalue="TestNG.AdditionalGoogleTests.checkFormComputerEngine" />
+        <item itemvalue="TestNG.GoogleCloudPlatformPricingCalculatorTest.checkEnteredDataForPricingCalculator" />
+        <item itemvalue="TestNG.AdditionalGoogleTests.checkDeleteEstimate" />
+        <item itemvalue="TestNG.AdditionalGoogleTests.checkActualData" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f301627-92a6-41f1-9801-52edd697d1a1" name="Default Changelist" comment="" />
+      <created>1608215366346</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608215366346</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2531" y="160" key="FileChooserDialogImpl" timestamp="1608827905776">
+      <screen x="1920" y="1" width="1858" height="1080" />
+    </state>
+    <state x="2531" y="160" key="FileChooserDialogImpl/0.0.1280.680/1920.1.1858.1080@1920.1.1858.1080" timestamp="1608827905776" />
+    <state x="421" y="100" key="FileChooserDialogImpl/0.0.1280.680/1920.1.1920.1040@0.0.1280.680" timestamp="1608534760025" />
+    <state width="1877" height="116" key="GridCell.Tab.0.bottom" timestamp="1610293264683">
+      <screen x="1920" y="1" width="1920" height="1040" />
+    </state>
+    <state width="1815" height="165" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.1.1858.1080@1920.1.1858.1080" timestamp="1608827220174" />
+    <state width="1237" height="160" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.1.1920.1040@0.0.1280.680" timestamp="1608570286809" />
+    <state width="1877" height="116" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.1.1920.1040@1920.1.1920.1040" timestamp="1610293264683" />
+    <state width="1877" height="116" key="GridCell.Tab.0.center" timestamp="1610293264682">
+      <screen x="1920" y="1" width="1920" height="1040" />
+    </state>
+    <state width="1815" height="165" key="GridCell.Tab.0.center/0.0.1280.680/1920.1.1858.1080@1920.1.1858.1080" timestamp="1608827220173" />
+    <state width="1237" height="160" key="GridCell.Tab.0.center/0.0.1280.680/1920.1.1920.1040@0.0.1280.680" timestamp="1608570286808" />
+    <state width="1877" height="116" key="GridCell.Tab.0.center/0.0.1280.680/1920.1.1920.1040@1920.1.1920.1040" timestamp="1610293264682" />
+    <state width="1877" height="116" key="GridCell.Tab.0.left" timestamp="1610293264682">
+      <screen x="1920" y="1" width="1920" height="1040" />
+    </state>
+    <state width="1815" height="165" key="GridCell.Tab.0.left/0.0.1280.680/1920.1.1858.1080@1920.1.1858.1080" timestamp="1608827220170" />
+    <state width="1237" height="160" key="GridCell.Tab.0.left/0.0.1280.680/1920.1.1920.1040@0.0.1280.680" timestamp="1608570286808" />
+    <state width="1877" height="116" key="GridCell.Tab.0.left/0.0.1280.680/1920.1.1920.1040@1920.1.1920.1040" timestamp="1610293264682" />
+    <state width="1877" height="116" key="GridCell.Tab.0.right" timestamp="1610293264682">
+      <screen x="1920" y="1" width="1920" height="1040" />
+    </state>
+    <state width="1815" height="165" key="GridCell.Tab.0.right/0.0.1280.680/1920.1.1858.1080@1920.1.1858.1080" timestamp="1608827220173" />
+    <state width="1237" height="160" key="GridCell.Tab.0.right/0.0.1280.680/1920.1.1920.1040@0.0.1280.680" timestamp="1608570286808" />
+    <state width="1877" height="116" key="GridCell.Tab.0.right/0.0.1280.680/1920.1.1920.1040@1920.1.1920.1040" timestamp="1610293264682" />
+    <state x="2588" y="357" key="com.intellij.ide.util.TipDialog" timestamp="1610200559041">
+      <screen x="1920" y="1" width="1920" height="1040" />
+    </state>
+    <state x="2566" y="371" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.1.1858.1080@1920.1.1858.1080" timestamp="1608827445635" />
+    <state x="445" y="233" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.1.1920.1040@0.0.1280.680" timestamp="1608298887914" />
+    <state x="2588" y="357" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.1.1920.1040@1920.1.1920.1040" timestamp="1610200559041" />
+    <state x="2535" y="140" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1610293258062">
+      <screen x="1920" y="1" width="1920" height="1040" />
+    </state>
+    <state x="2535" y="140" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.680/1920.1.1920.1040@1920.1.1920.1040" timestamp="1610293258062" />
+    <state x="2262" y="226" key="new project wizard" timestamp="1610216409479">
+      <screen x="1920" y="1" width="1920" height="1040" />
+    </state>
+    <state x="2262" y="226" key="new project wizard/0.0.1280.680/1920.1.1920.1040@1920.1.1920.1040" timestamp="1610216409479" />
+  </component>
+</project>
