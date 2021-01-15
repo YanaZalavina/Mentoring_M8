@@ -27,7 +27,6 @@ public class GoogleCloudPage extends AbstractPage{
     private WebElement searchButton;
 
     public GoogleCloudPage enterValueForSearching(String valueForSearching){
-        //searchButton.click();
         new Actions(driver).click(searchButton).build().perform();
 
         searchButton.sendKeys(valueForSearching);

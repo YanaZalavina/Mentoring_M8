@@ -32,22 +32,12 @@ public class ConfigTests {
             driver = new RemoteWebDriver(new URL(SECOND_NODE), options);
         }
 
-       /* ChromeOptions options = new ChromeOptions();
-        options.setCapability("platform", "WIN10");
-        options.setCapability("platformName", "windows");
-
-        try {
-            driver = new RemoteWebDriver(new URL(FIRST_NODE), options);
-        } catch (MalformedURLException e) {
-            e.printStackTrace();
-        }
-        */
 
         driver.manage().window().maximize();
     }
     @AfterClass(alwaysRun = true)
     public void browserQuit(){
-       // driver.quit();
-       // driver = null;
+        driver.quit();
+        driver = null;
     }
 }

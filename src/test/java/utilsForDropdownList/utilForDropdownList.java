@@ -12,7 +12,6 @@ import java.util.List;
 public class utilForDropdownList {
 
     private static String commonXPathForElementsFromDropdownList = "//*[@class='md-select-menu-container md-active md-clickable']//md-option/div";
-    //private ArrayList<String> tabs;
 
     public utilForDropdownList findAndClickOnElementFromDropDownList(WebDriver driver, String visibleNameOfWebElement){
         System.out.println("Go into findAndClickOnElementFromDropDownList");

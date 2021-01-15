@@ -1,15 +1,11 @@
 package pages;
 
-import org.openqa.selenium.By;
-import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
-import tests.GoogleCloudPlatformPricingCalculatorTest;
 import utilsForDropdownList.utilForDropdownList;
 
 import java.util.ArrayList;
@@ -19,13 +15,9 @@ import static waits.Waits.waitToBeVisibleForElement;
 
 public class TempMailPage extends AbstractPage{
     private static final String TEMP_EMAIL_SERVICE_URL = "https://10minutemail.com/";
-    private String startPartOfPath = "//*[contains(text(), '";
-    private String endPartOfPath = "')]";
 
     public TempMailPage(WebDriver driver){
         super(driver);
-        //new WebDriverWait(driver, 10).until(ExpectedConditions.visibilityOf(iconForCopyTempEmail));
-        //PageFactory.initElements(driver, this);
     }
 
     public TempMailPage loadPage(){
@@ -36,8 +28,6 @@ public class TempMailPage extends AbstractPage{
     public TempMailPage openPage() {
         driver.get(TEMP_EMAIL_SERVICE_URL);
         System.out.println("openPage TempMailPage");
-        //new WebDriverWait(driver, 10).until(ExpectedConditions.visibilityOf(iconForCopyTempEmail));
-        //PageFactory.initElements(driver, this);
         return this;
     }
 
